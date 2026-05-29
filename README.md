@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on - My Computer Systems Degree<br>👯 I’m looking to collaborate on - Cloud/Self-Hosting and Software Engineering<br>🤝 I’m looking for help with - Understanding the AWS and GCP ecosystems<br>🌱 I’m currently learning about - System Dynamics and Cloud Computing <br>💬 Ask me about - Music and Systems Engineering, or anything youre interested in i am happy to learn something new<br>⚡ Fun fact - My favourite Superhero is the Silver Surfer 
 
 
